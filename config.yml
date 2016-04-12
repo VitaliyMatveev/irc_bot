@@ -1,0 +1,35 @@
+proxy:
+  host: localhost
+  port: 9050
+bot_name: tor_checker
+channel: check_connection
+servers:
+  - irc.choopa.net
+  - port80a.se.quakenet.org
+  - euroserv.fr.quakenet.org
+  - dreamhack.se.quakenet.org
+  - irc.degunino.net
+  - nightmare.darkspirit.org
+  - karnak.aureaworld.org
+  - dungeon.axenet.org
+  - ai.irc.mufhd0.net
+  - irc.durd.net
+  - bravo.invictachat.net
+  - 7ter-himmel-irc.net
+  - irc.a1-chat.de
+  - adams.freenode.net
+  - irc.p2p-network.net
+  - irc.ircnet.ru
+  - ircnet.bsim.ru
+  - irc.qwertylife.ru
+  - irc.egghelp.ru
+  - irc.qwertylife.ru:6688
+  - irc.dim.st
+  - nkoort.ru
+  - irc.zeg.ru
+  - dostlar.uz
+  - dreamterra.net
+  - ircnet.eversible.com
+  - irc.wenet.ru
+  - irc.visp.ru
+  - ht5tdqo7hlyswrg6.onion

@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    proxifier (1.0.3)
+    terminal-table (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  proxifier
+  terminal-table
+
+BUNDLED WITH
+   1.10.6

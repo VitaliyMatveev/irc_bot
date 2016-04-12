@@ -1,0 +1,29 @@
+1) [HOST]irc.choopa.net                                    [STATUS]ERROR :Closing Link: 67.ip-92-222-38.eu (*** Banned )
+2) [HOST]port80a.se.quakenet.org                           [STATUS]OK
+3) [HOST]euroserv.fr.quakenet.org                          [STATUS]OK
+4) [HOST]dreamhack.se.quakenet.org                         [STATUS]OK
+5) [HOST]irc.degunino.net                                  [STATUS]OK
+6) [HOST]nightmare.darkspirit.org                          [STATUS]OK
+7) [HOST]karnak.aureaworld.org                             [STATUS]OK
+8) [HOST]dungeon.axenet.org                                [STATUS]OK
+9) [HOST]ai.irc.mufhd0.net                                 [STATUS]connection refused
+10) [HOST]irc.durd.net                                      [STATUS]OK
+11) [HOST]bravo.invictachat.net                             [STATUS]ERROR :Closing Link: tor_checker by bravo.invictachat.net (G-lined (<Jobe> No authorization has been given for 'tor_checker' to check this network.))
+12) [HOST]7ter-himmel-irc.net                               [STATUS]OK
+13) [HOST]irc.a1-chat.de                                    [STATUS]host unreachable
+14) [HOST]adams.freenode.net                                [STATUS]ERROR :Closing Link: orion.enn.lu (*** Banned )
+15) [HOST]irc.p2p-network.net                               [STATUS]OK
+16) [HOST]irc.ircnet.ru                                     [STATUS]OK
+17) [HOST]ircnet.bsim.ru                                    [STATUS]OK
+18) [HOST]irc.qwertylife.ru                                 [STATUS]OK
+19) [HOST]irc.egghelp.ru                                    [STATUS]OK
+20) [HOST]irc.qwertylife.ru                                 [STATUS]OK
+21) [HOST]irc.dim.st                                        [STATUS]ERROR :Closing Link: tor_checker[orion.enn.lu] (Z:lined (Доступ запрещен (Access denied)))
+22) [HOST]nkoort.ru                                         [STATUS]OK
+23) [HOST]irc.zeg.ru                                        [STATUS]connection refused
+24) [HOST]dostlar.uz                                        [STATUS]host unreachable
+25) [HOST]dreamterra.net                                    [STATUS]Broken pipe - send(2)
+26) [HOST]ircnet.eversible.com                              [STATUS]ERROR :Closing Link: tor_checker[~blah@normalcitizen.spirosandreou.com] (Kill line active: TOR Exit Node)
+27) [HOST]irc.wenet.ru                                      [STATUS]OK
+28) [HOST]irc.visp.ru                                       [STATUS]OK
+29) [HOST]ht5tdqo7hlyswrg6.onion                            [STATUS]OK
