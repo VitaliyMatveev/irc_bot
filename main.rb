@@ -116,6 +116,6 @@ load_config();
 end
 
 $stdout.reopen("report.txt","w")
-$report.each do |row, index|
+$report.each do |row|
     puts "[HOST]#{row[0]}"+" "*(50-row[0].length)+"[STATUS]#{row[1]}"
 end
